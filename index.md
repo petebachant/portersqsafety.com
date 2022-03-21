@@ -1,3 +1,4 @@
-# Home
+# Welcome
 
-This is the home page.
+If you'd like to contribute to this page, please
+[edit on GitHub](https://github.com/petebachant/portersqsafety.com/edit/main/index.md).
